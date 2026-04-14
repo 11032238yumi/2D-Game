@@ -388,7 +388,7 @@ MonoBehaviour:
   forceFunction: 0
   force:
     vector2Ref: {fileID: 0}
-    vector2Val: {x: 3, y: 0}
+    vector2Val: {x: 30, y: 0}
   forceScaleFactor:
     floatRef: {fileID: 0}
     floatVal: 1
@@ -426,7 +426,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 128
-    y: 275
+    y: 273.9011
     width: 86.009995
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -453,11 +453,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 33.131847, y: 20.274706}
+  scrollPos: {x: 22.486225, y: -2.50378}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 211
-  zoom: 0.9100001
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: 0
@@ -465,9 +465,9 @@ MonoBehaviour:
     width: 0
     height: 0
   selectedBlocks:
-  - {fileID: 492376010}
+  - {fileID: 492375985}
   selectedCommands:
-  - {fileID: 492376007}
+  - {fileID: 492375983}
   variables: []
   description: 
   stepPause: 0
@@ -798,7 +798,7 @@ MonoBehaviour:
   forceFunction: 0
   force:
     vector2Ref: {fileID: 0}
-    vector2Val: {x: -3, y: 0}
+    vector2Val: {x: -30, y: 0}
   forceScaleFactor:
     floatRef: {fileID: 0}
     floatVal: 1
@@ -1624,7 +1624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 492375986}
+  selectedFlowchart: {fileID: 1407648621}
 --- !u!4 &874610758
 Transform:
   m_ObjectHideFlags: 1
@@ -3017,7 +3017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 151
+    x: 150
     y: 125
     width: 111.520004
     height: 40
@@ -3058,7 +3058,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 67
+    x: 66
     y: 70
     width: 110.19
     height: 40
